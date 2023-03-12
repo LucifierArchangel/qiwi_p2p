@@ -7,13 +7,13 @@ Node.js SDK модуль для внедрения единого платежн
 Установка с помощью npm:
 
 ```bash
-$ npm install <npm_package_name> --save
+$ npm i qiwi_p2p_api-typescript --save
 ```
 
 Подключение:
 
 ```javascript
-const { QiwiP2P } = require('<npm_package_name>')
+const { QiwiP2P } = require('qiwi_p2p_api-typescript')
 const qiwiApi = new QiwiP2P(PUBLIC_KEY, SECRET_KEY)
 ```
 
