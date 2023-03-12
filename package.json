@@ -1,6 +1,6 @@
 {
     "name": "qiwi_p2p_api-typescript",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "QIWI P2P API wrapper via TypeScript",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
